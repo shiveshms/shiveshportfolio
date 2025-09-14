@@ -67,7 +67,7 @@ Continuously improving on DSA and full-stack development.
 
 - **Location:** Delhi, India  
 - **Email:** mishrashiwesh1976@gmail.com  
-- **Phone:** +91-845678-34567  
+- **Phone:** +91-85678-34843  
 
 Feel free to reach out if you’d like to collaborate or have any questions!
 
