@@ -91,8 +91,8 @@ const projects = {
     title: "Digital Portfolio",
     desc: "A responsive personal portfolio showing journey, projects, and resume. Clean UI, smooth animations, and accessible layout.",
     tech: ["HTML","CSS","JavaScript","jQuery"],
-    github: "https://github.com/shiveshms",
-    live: window.location.href
+    github: "https://github.com/shiveshms/shiveshportfolio",
+    live: "https://shiveshms.github.io/shiveshportfolio/"
   },
   "mindaid": {
     title: "MindAid",
@@ -224,7 +224,7 @@ function sendAbout() {
 function sendPortfolioLink() {
   const html = `
     <div>
-      <p>Check out my portfolio: <a href="https://github.com/shiveshm" target="_blank" rel="noreferrer">🌐 Portfolio Website</a></p>
+      <p>Check out my portfolio: <a href="https://shiveshms.github.io/shiveshportfolio/" target="_blank" rel="noreferrer">🌐 Portfolio Website</a></p>
       <p>It showcases my projects, skills, resume, and more.</p>
     </div>
   `;
@@ -368,4 +368,3 @@ const scrollTopBtn = document.getElementById('scroll-top-btn');
 scrollTopBtn.addEventListener('click', () => {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 });
-
