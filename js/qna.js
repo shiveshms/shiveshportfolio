@@ -14,7 +14,7 @@ const metadata = {
   shortIntro: "Hi — I'm <strong>Shivesh</strong>, an aspiring Front-End Developer and GATE-qualified student.",
   location: "Delhi, India",
   email: "mishrashiwesh1976@gmail.com",
-  phone: "+91-8860348605",
+  phone: "+91-8567834843",
   linkedin: "https://in.linkedin.com/in/shiveshms",
   github: "https://github.com/shiveshms",
   resume: "resume.pdf",
@@ -368,3 +368,4 @@ const scrollTopBtn = document.getElementById('scroll-top-btn');
 scrollTopBtn.addEventListener('click', () => {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 });
+
